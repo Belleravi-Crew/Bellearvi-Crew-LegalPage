@@ -1,0 +1,1 @@
+import{c as r,o as s}from"./index-CmVkuAoX.js";const a=(t,e)=>{const o=t.__vccOpts||t;for(const[c,n]of e)o[c]=n;return o},_={};function f(t,e){return s(),r("main")}const l=a(_,[["render",f]]);export{l as default};
